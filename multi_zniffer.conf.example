@@ -1,0 +1,41 @@
+jlink440315997 {
+"reset"
+"rx 0",
+"setzwavemode 1 3",
+"setzwaveregion 1",
+"setChannel 0",
+"rx 1"
+}
+
+jlink440316161 {
+"reset"
+"rx 0",
+"setzwavemode 1 3",
+"setzwaveregion 1",
+"setChannel 1",
+"rx 1"
+}
+jlink440316082 {
+"reset"
+"rx 0",
+"setzwavemode 1 3",
+"setzwaveregion 1",
+"setChannel 2",
+"rx 1"
+}
+jlink440337326 {
+"reset"
+"rx 0",
+"setzwavemode 1 3",
+"setzwaveregion 11",
+"setChannel 3",
+"rx 1"
+}
+jlink440330708 {
+"reset"
+"rx 0",
+"setzwavemode 1 3",
+"setzwaveregion 12",
+"setChannel 3",
+"rx 1"
+}
